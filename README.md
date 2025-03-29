@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-header-image%20(2).png" alt="Header">
+  <img src="https://github.com/Abhishek-Atole/Abhishek-Atole/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png" alt="Header">
 </p>
 # Hi 👋, I'm Abhishek Atole
 
