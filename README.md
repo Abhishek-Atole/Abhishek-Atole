@@ -34,7 +34,7 @@
 - 👯 **Looking to collaborate on:** [Test Paper Generator](https://github.com/Abhishek-Atole/Test_Paper_Generator)
 - 🤝 **Seeking help with:** [Test Paper Generator](https://github.com/Abhishek-Atole/Test_Paper_Generator)
 - 🌱 **Currently learning:** C++ & Java
-- 👨‍💻 **Portfolio:** [abhiatole.netlify.app](https://abhiatole.netlify.app)
+- 👨‍💻 **Portfolio:** [abhishekatole.netlify.app](https://abhishekatole.netlify.app)
 
 ---
 
