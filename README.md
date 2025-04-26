@@ -29,18 +29,18 @@
 ---
 
 ## 📌 Projects
-
-- 🔭 **Currently working on:** [Customised Virtual File System](https://github.com/Abhishek-Atole/Customised_Virtual_File_System)
-- 👯 **Looking to collaborate on:** [Test Paper Generator](https://github.com/Abhishek-Atole/Test_Paper_Generator)
-- 🤝 **Seeking help with:** [Test Paper Generator](https://github.com/Abhishek-Atole/Test_Paper_Generator)
-- 🌱 **Currently learning:** C++ & Java
+- 🔭 **Currently working on:** [GSoC 2025 - Proposal Submitted to the CGAL Organiization for the project **Enhancing the 2D Regularized Boolean Set Operations Demo**] (# Working Started)
+- 🔭 **Currently working on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
+- 👯 **Looking to collaborate on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
+- 🤝 **Seeking help with:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
+- 🌱 **Currently learning:** C++ & Java (Advance)
 - 👨‍💻 **Portfolio:** [abhishekatole.netlify.app](https://abhishekatole.netlify.app)
 
 ---
 
 ## 📄 Experience
 
-- **Know more about my experiences:** [Resume](https://github.com/Abhishek-Atole/Portfolio/blob/main/public/images/Abhishek%20Himmatrao%20Atole.pdf)
+- **Know more about my experiences:** [Hire Me](https://drive.google.com/file/d/1vP3t_VzDDwzS97z8AWQiljF_qOnZHofE/view?usp=sharing)
 
 ---
 
