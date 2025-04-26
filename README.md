@@ -29,7 +29,7 @@
 ---
 
 ## 📌 Projects
-- 🔭 **Currently working on:** [GSoC 2025 - Proposal Submitted to the CGAL Organiization for the project **Enhancing the 2D Regularized Boolean Set Operations Demo**] (# Working Started)
+- 🔭 **Currently working on:** [GSoC 2025 - Proposal Submitted to the CGAL Organization for the project **Enhancing the 2D Regularized Boolean Set Operations Demo**] (# Working Started)
 - 🔭 **Currently working on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
 - 👯 **Looking to collaborate on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
 - 🤝 **Seeking help with:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
