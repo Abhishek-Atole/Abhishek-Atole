@@ -1,0 +1,51 @@
+# 👋 Hi, I'm Abhishek Atole
+
+I'm a passionate software developer focused on C++, system-level programming, and back-end logic. I enjoy building efficient, low-level systems and solving complex problems with clean and maintainable code. I'm actively seeking roles as a **C++ Developer**, **System Engineer**, or **Backend Engineer** where I can contribute to impactful projects and grow my technical depth.
+
+---
+
+## 💼 Technical Skills
+
+- 💻 **Languages**: C, C++, Java, Python, Bash
+- 🧠 **Core Concepts**: Data Structures & Algorithms, File Systems, Memory Management, OS Internals, Networking Basics
+- 📦 **Libraries/Frameworks**: CGAL, Qt, STL, OpenMP, TensorFlow (basic), Matplotlib
+- 🖥️ **Tools & Systems**: Linux, Git, Docker, CMake, GDB, GCC/Clang, Make, VS Code
+- 🧪 **Practices**: OOP, Template Programming, CLI Tools, Version Control, Debugging, Performance Profiling
+
+---
+
+## 🚀 Projects
+
+🔹 [**Polygon Boolean Operations Visualizer**](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer)  
+> A Qt + CGAL-based C++ desktop app to visualize union, intersection, and other Boolean operations on polygons.
+
+🔹 [**Customised Virtual File System**](https://github.com/Abhishek-Atole/Customised-Virtual-File-System-)  
+> A simulation of a Unix-like file system in C, demonstrating OS-level structures like inodes and file descriptors.
+
+🔹 [**Generalised Data Structures Library**](https://github.com/Abhishek-Atole/Generalised-Data-Structures-Library-)  
+> A reusable C++ library of linear and non-linear data structures designed with OOP and template programming.
+
+🔹 [**EMG Signal Classification Using CNN**](https://github.com/Abhishek-Atole/Classification-of-an-EMG-Signal-Using-CNN)  
+> A deep learning project to classify electromyography signals using CNN and signal processing techniques.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Atole&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Atole&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 📄 [Resume (PDF)](https://your-resume-link.com) <!-- Replace with actual link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-atole/)  
+- 🧠 [GitHub](https://github.com/Abhishek-Atole)  
+- 🌐 [Portfolio / Blog](https://your-personal-site.com) <!-- Optional -->
+
+---
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
