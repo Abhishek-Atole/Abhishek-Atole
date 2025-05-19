@@ -8,7 +8,7 @@
 ## 🧠 1. PROFILE LEVEL (FIRST IMPRESSION)
 
 ### 🔲 Create a Professional GitHub Profile README  
-- [ ] Write a concise summary: who you are and what roles you're targeting (C++, System Engineer, Backend).
+- [✅] Write a concise summary: who you are and what roles you're targeting (C++, System Engineer, Backend).
 - [ ] Highlight your top technical skills: C++, Linux, CGAL, Data Structures, OS Concepts, etc.
 - [ ] Showcase your best work with links and brief descriptions.
 - [ ] Add stats badges: GitHub stats, languages used, etc.
