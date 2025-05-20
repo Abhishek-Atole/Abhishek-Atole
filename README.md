@@ -53,12 +53,17 @@
 - 🔹 [CNN for EMG Signal Classification](https://github.com/Abhishek-Atole/EMG_signal_classification)
 
 ---
+<details>
+<summary>📜 Certifications & Resume</summary>
 
-📄 **Resume**
-
-- [Download my Resume (PDF)](https://github.com/Abhishek-Atole/Resume/blob/main/Abhishek_Atole_Resume.pdf)  
-
+- ✅ C Programming – Udemy  [View Certificate](https://www.linkedin.com/learning/certificates/8cbed9814a163b91f00feac525839739085741dd84c32f2e3e6565c290c2420e?trk=share_certificate)
+- ✅ Advanced C++ – Udemy  [View Certificate](https://www.udemy.com/certificate/UC-5f7e3c2a-9296-46a2-af0f-d3e7b7b2ccc1/)
+- ✅ Linux Fundamentals – Cisco  [View Certificate](https://www.linkedin.com/learning/paths/getting-started-with-linux)
+- ✅ Networking Basics – Cisco  [View Certificate](https://www.credly.com/badges/c7ee13ea-2f69-4cae-815e-dd15b6e068ad/public_url)
+- ✅ HPP Certification – [View Certificate](https://astromedicomp.org/Certificate/StudentCertificate.php?cuid=HPP-2025-ILTOCF649M)  
+- 📄 [Download My Resume](https://drive.google.com/file/d/17AdJbXxt9pAo8MnmPqG4RFWx0Mdjeut8/view?usp=sharing)
 *(Make sure your resume PDF is uploaded to that path or update the link accordingly)*
+</details>
 
 ---
 
