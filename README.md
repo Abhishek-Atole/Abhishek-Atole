@@ -1,83 +1,83 @@
-<p align="center">
-  <img src="https://github.com/Abhishek-Atole/Abhishek-Atole/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png" alt="Header">
-</p>
-
-# Hi 👋, I'm Abhishek Atole
-
-### 🚀 Building innovative solutions and creating impactful software.
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek-atole&label=Profile%20views&color=FF0000&style=flat)
-
----
-
-## 🛠️ Languages & Tools
+<h1 align="center">Hi 👋, I'm Abhishek Atole</h1>
+<h3 align="center">C++ Developer | System-Level Thinker | Back-End Enthusiast</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="Objective-C" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" />
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="42" height="42" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Atole&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek-Atole" />
+  <img src="https://img.shields.io/github/followers/Abhishek-Atole?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="mailto:abhishekatoletg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-atole/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 📌 Projects
-- 🔭 **Currently working on:** [GSoC 2025 - Proposal Submitted to the CGAL Organization for the project **Enhancing the 2D Regularized Boolean Set Operations Demo**] (# Working Started)
-- 🔭 **Currently working on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
-- 👯 **Looking to collaborate on:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
-- 🤝 **Seeking help with:** [Polygon_Boolean_Operations_Visualizer](https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer.git)
-- 🌱 **Currently learning:** C++ & Java (Advance)
-- 👨‍💻 **Portfolio:** [abhishekatole.netlify.app](https://abhishekatole.netlify.app)
+🌱 **About Me**
+
+- 🎓 Final Year B.E. in Electronics & Telecommunication  
+- 💻 Passionate about **C++, Linux, Data Structures, and System Programming**  
+- 🔧 Currently interning at **CodSoft** as a C++ Developer  
+- 🎯 Focused on back-end development and real-world system-level problem solving  
+- 👨‍💻 Contributor to **CGAL (Computational Geometry Algorithms Library)** as part of GSoC preparation  
+- 🛠️ Active in creating tools, libraries, and visualizers  
+- 🧠 Always learning, building, and sharing
 
 ---
 
-## 📄 Experience
-
-- **Know more about my experiences:** [Hire Me](https://drive.google.com/file/d/1vP3t_VzDDwzS97z8AWQiljF_qOnZHofE/view?usp=sharing)
-
----
-
-## 🌎 Connect with Me
+🚀 **Tech Stack & Tools**
 
 <p align="center">
-<a href="https://dev.to/abhishek_atole"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-<a href="https://www.linkedin.com/in/abhishekatole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/abhiatole_17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://stackoverflow.com/users/41060798/abhishek-atole"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,linux,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+🧰 **Projects You Might Like**
+
+- 🔹 [Polygon Boolean Operations Visualizer](https://github.com/Abhishek-Atole/Polygon-Bool-Operation)
+- 🔹 [Virtual File System](https://github.com/Abhishek-Atole/Customised_Virtual_File_System)
+- 🔹 [Data Structures Template Library](https://github.com/Abhishek-Atole/Generic_DataStructures)
+- 🔹 [CNN for EMG Signal Classification](https://github.com/Abhishek-Atole/EMG_signal_classification)
+
+---
+
+📈 **My GitHub Stats**
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Atole&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Atole&theme=dark" alt="GitHub Streak" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-Atole&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Atole&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Atole&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 **GitHub Trophies**
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Atole&theme=darkhub" alt="GitHub Trophies" /></a></p>
-
----
-
-## ❤️ Support Me
-
-<p>
-<a href="https://www.buymeacoffee.com/abhishek_atole"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Atole&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-⚡ **Fun Fact:** Always eager to learn new technologies and explore tools!
+📊 **Contribution Timeline**
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Atole&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+📫 **Contact Me**
+
+- 📧 Email: abhishekatoletg@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/abhishek-atole](https://www.linkedin.com/in/abhishek-atole)
+
+---
+
+✨ **Quote to Code By**
+
+<h3 align="center">"Stay curious. Stay consistent. Build with purpose."</h3>
+<p align="center">— Abhishek Atole</p>
+
+---
