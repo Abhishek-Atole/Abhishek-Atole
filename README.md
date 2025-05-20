@@ -25,6 +25,17 @@
 - 🧠 Always learning, building, and sharing
 
 ---
+🛠️ **Skills & Expertise**
+
+- **Languages:** C++14/17/20 (Advanced), C (Advanced), Java (Intermediate), Python (Basic), SQL (Basic)  
+- **Tools & Libraries:** STL, Qt6, CGAL, GDB, Valgrind, CMake, Git, Docker, VS Code  
+- **Operating Systems:** Linux (Ubuntu, Kali, Arch), Windows  
+- **Databases:** MySQL (Basic), PostgreSQL (Basic)  
+- **Concepts:** Object-Oriented Programming, Modular Architecture, File Systems, Memory Management  
+- **Practices:** Agile, SDLC, CI/CD, Unit Testing, Debugging, GitHub/GitLab workflows  
+- **Currently Learning:** Teamcenter (Self-study), SAFe (in progress)  
+
+---
 
 🚀 **Tech Stack & Tools**
 
@@ -40,6 +51,14 @@
 - 🔹 [Virtual File System](https://github.com/Abhishek-Atole/Customised_Virtual_File_System)
 - 🔹 [Data Structures Template Library](https://github.com/Abhishek-Atole/Generic_DataStructures)
 - 🔹 [CNN for EMG Signal Classification](https://github.com/Abhishek-Atole/EMG_signal_classification)
+
+---
+
+📄 **Resume**
+
+- [Download my Resume (PDF)](https://github.com/Abhishek-Atole/Resume/blob/main/Abhishek_Atole_Resume.pdf)  
+
+*(Make sure your resume PDF is uploaded to that path or update the link accordingly)*
 
 ---
 
