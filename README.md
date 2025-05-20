@@ -14,26 +14,40 @@
 
 ---
 
-🌱 **About Me**
+🌱 **About Me & Skills**
 
-- 🎓 Final Year B.E. in Electronics & Telecommunication  
+- 🎓 **Final Year B.E.** in Electronics & Telecommunication  
 - 💻 Passionate about **C++, Linux, Data Structures, and System Programming**  
 - 🔧 Currently interning at **CodSoft** as a C++ Developer  
 - 🎯 Focused on back-end development and real-world system-level problem solving  
 - 👨‍💻 Contributor to **CGAL (Computational Geometry Algorithms Library)** as part of GSoC preparation  
 - 🛠️ Active in creating tools, libraries, and visualizers  
-- 🧠 Always learning, building, and sharing
+- 🧠 Always learning, building, and sharing  
 
 ---
+
 🛠️ **Skills & Expertise**
 
-- **Languages:** C++14/17/20 (Advanced), C (Advanced), Java (Intermediate), Python (Basic), SQL (Basic)  
-- **Tools & Libraries:** STL, Qt6, CGAL, GDB, Valgrind, CMake, Git, Docker, VS Code  
-- **Operating Systems:** Linux (Ubuntu, Kali, Arch), Windows  
-- **Databases:** MySQL (Basic), PostgreSQL (Basic)  
-- **Concepts:** Object-Oriented Programming, Modular Architecture, File Systems, Memory Management  
-- **Practices:** Agile, SDLC, CI/CD, Unit Testing, Debugging, GitHub/GitLab workflows  
-- **Currently Learning:** Teamcenter (Self-study), SAFe (in progress)  
+- 💬 **Languages:**  
+  C++14/17/20 (Advanced), C (Advanced), Java (Intermediate), Python (Basic), SQL (Basic)  
+
+- 🧰 **Tools & Libraries:**  
+  STL, Qt6, CGAL, GDB, Valgrind, CMake, Git, Docker, VS Code  
+
+- 🖥️ **Operating Systems:**  
+  Linux (Ubuntu, Kali, Arch), Windows  
+
+- 🗄️ **Databases:**  
+  MySQL (Basic), PostgreSQL (Basic)  
+
+- 🧩 **Concepts:**  
+  Object-Oriented Programming, Modular Architecture, File Systems, Memory Management  
+
+- 🔄 **Practices:**  
+  Agile, SDLC, CI/CD, Unit Testing, Debugging, GitHub/GitLab workflows  
+
+- 📚 **Currently Learning:**  
+  Teamcenter (Self-study), SAFe (in progress)  
 
 ---
 
