@@ -7,7 +7,7 @@
   <a href="mailto:abhishekatoletg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-atole/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishekatole/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
