@@ -10,8 +10,9 @@
   <a href="https://www.linkedin.com/in/abhishekatole/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
 </p>
-
+[![Build C, C++, and Java Programs](https://github.com/Abhishek-Atole/Logic-Building/actions/workflows/main.yml/badge.svg)](https://github.com/Abhishek-Atole/Logic-Building/actions/workflows/main.yml)
 ---
 
 🌱 **About Me & Skills**
@@ -76,7 +77,7 @@
 - ✅ Networking Basics – Cisco  [View Certificate](https://www.credly.com/badges/c7ee13ea-2f69-4cae-815e-dd15b6e068ad/public_url)
 - ✅ HPP Certification – [View Certificate](https://astromedicomp.org/Certificate/StudentCertificate.php?cuid=HPP-2025-ILTOCF649M)  
 - 📄 [Download My Resume](https://drive.google.com/file/d/17AdJbXxt9pAo8MnmPqG4RFWx0Mdjeut8/view?usp=sharing)
-*(Make sure your resume PDF is uploaded to that path or update the link accordingly)*
+
 </details>
 
 ---
