@@ -12,7 +12,7 @@
   </a>
   
 </p>
-[![Build C, C++, and Java Programs](https://github.com/Abhishek-Atole/Logic-Building/actions/workflows/main.yml/badge.svg)](https://github.com/Abhishek-Atole/Logic-Building/actions/workflows/main.yml)
+
 ---
 
 🌱 **About Me & Skills**
