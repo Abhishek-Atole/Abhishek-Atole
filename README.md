@@ -109,7 +109,7 @@
 
 📫 **Contact Me**
 
-- 📧 Email: abhishekatoletg@gmail.com  
+- 📧 Email: abhiatole03@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/abhishek-atole](https://www.linkedin.com/in/abhishek-atole)
 
 ---
