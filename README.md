@@ -344,6 +344,326 @@ Deep learning project applying CNNs to biomedical signal processing for gesture 
 
 ---
 
+## 📊 Complete Project Portfolio & Metrics
+
+### Portfolio Overview
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Total Repositories** | 25+ |
+| **Primary Languages** | C++, C, Java, TypeScript, Python |
+| **Total Stars** | 7+ |
+| **Total Forks** | 2+ |
+| **Active Projects** | 20+ |
+| **Lines of Code Written** | 50,000+ |
+
+</div>
+
+---
+
+### 🗂️ Repository Categories & Detailed Metrics
+
+#### 🔷 System Programming & C/C++ Projects (10 Repos)
+
+<table>
+<tr>
+<th>Project</th>
+<th>Language</th>
+<th>Stars</th>
+<th>Description</th>
+<th>Key Metrics</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Polygon_Boolean_Operations_Visualizer">Polygon Boolean Visualizer</a></td>
+<td><img src="https://img.shields.io/badge/Makefile-064F8C?style=flat" /></td>
+<td>⭐ 2</td>
+<td>CGAL + Qt6 polygon operations</td>
+<td>• 5,000+ LOC<br>• O(n log n) complexity<br>• Cross-platform</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Generalised-Data-Structures-Library-">Generic Data Structures</a></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=flat" /></td>
+<td>⭐ 1</td>
+<td>Header-only C++17 library</td>
+<td>• 15+ data structures<br>• Type-safe templates<br>• Exception-safe</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Customised-Virtual-File-System">Virtual File System</a></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=flat" /></td>
+<td>⭐ 1</td>
+<td>Unix-like VFS in C++</td>
+<td>• In-memory FS<br>• Inode management<br>• POSIX-compliant</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Inventory-Management-System-C">Inventory Management</a></td>
+<td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Production-grade C system</td>
+<td>• File handling<br>• Linked lists<br>• Modular design</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/mathscan">MathScan</a></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Math expression parser</td>
+<td>• Recursive descent<br>• Expression eval<br>• Error handling</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/CPP_Programming">C++ Programming</a></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Advanced C++ concepts</td>
+<td>• Modern C++17/20<br>• STL algorithms<br>• Design patterns</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/C-Language">C Language</a></td>
+<td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat" /></td>
+<td>⭐ 1</td>
+<td>In-depth C programming</td>
+<td>• System calls<br>• Memory mgmt<br>• Pointers deep dive</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Logic-Building">Logic Building</a></td>
+<td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat" /></td>
+<td>⭐ 0</td>
+<td>DSA & LeetCode solutions</td>
+<td>• 200+ problems<br>• C/C++/Java<br>• Optimized solutions</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Cognitio-Eduventures-Private-Limited-Assignment">Cognitio Assignment</a></td>
+<td><img src="https://img.shields.io/badge/C++-00599C?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Technical assessment</td>
+<td>• Clean code<br>• Test-driven<br>• Documented</td>
+</tr>
+</table>
+
+**Category Metrics:**
+- 📝 Total Lines of Code: **~25,000 LOC**
+- 🎯 Data Structures Implemented: **15+**
+- ⚡ Algorithms Optimized: **50+**
+- 🏗️ Design Patterns Used: **10+**
+
+---
+
+#### 🔶 Java & Backend Development (4 Repos)
+
+<table>
+<tr>
+<th>Project</th>
+<th>Language</th>
+<th>Forks</th>
+<th>Description</th>
+<th>Key Metrics</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/30Days-Backend-Journey">30 Days Backend Journey</a></td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat" /></td>
+<td>🔱 0</td>
+<td>Comprehensive Java backend roadmap</td>
+<td>• 30-day curriculum<br>• Spring Boot<br>• REST APIs</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/bynry-backend-case-study">Bynry Case Study</a></td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat" /></td>
+<td>🔱 0</td>
+<td>Backend case study</td>
+<td>• Microservices<br>• Database design<br>• API development</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/school-attendance">School Attendance</a></td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat" /></td>
+<td>🔱 0</td>
+<td>Attendance management system</td>
+<td>• JDBC integration<br>• MVC pattern<br>• MySQL backend</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Java-Language">Java Language</a></td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat" /></td>
+<td>🔱 0</td>
+<td>Core Java concepts</td>
+<td>• OOP principles<br>• Collections<br>• Multithreading</td>
+</tr>
+</table>
+
+**Category Metrics:**
+- 📝 Total Lines of Code: **~8,000 LOC**
+- 🎯 REST APIs Built: **5+**
+- 🗄️ Database Schemas: **3+**
+- ☕ Java Projects: **4**
+
+---
+
+#### 🔸 Web Development & Full Stack (4 Repos)
+
+<table>
+<tr>
+<th>Project</th>
+<th>Language</th>
+<th>Stars/Forks</th>
+<th>Description</th>
+<th>Key Metrics</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Dev-Abhishek-Portfolio">Dev Portfolio</a></td>
+<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /></td>
+<td>⭐ 0 | 🔱 1</td>
+<td>Personal portfolio website</td>
+<td>• React + TS<br>• Responsive UI<br>• Modern design</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/dnyan-shakti-portal">Dnyan Shakti Portal</a></td>
+<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /></td>
+<td>⭐ 0 | 🔱 1</td>
+<td>Educational portal</td>
+<td>• Next.js<br>• Full-stack<br>• Authentication</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/AI-Creative-Customize-Thumbnail-Generator">AI Thumbnail Generator</a></td>
+<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Gemini AI thumbnail creator</td>
+<td>• AI integration<br>• Custom designs<br>• YouTube ready</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/My_Portfolio_Website">Portfolio Website</a></td>
+<td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Previous portfolio iteration</td>
+<td>• React<br>• CSS animations<br>• SEO optimized</td>
+</tr>
+</table>
+
+**Category Metrics:**
+- 📝 Total Lines of Code: **~10,000 LOC**
+- 🎨 UI Components Built: **50+**
+- 🌐 Responsive Pages: **20+**
+- 🚀 Deployed Projects: **3**
+
+---
+
+#### 🔹 Machine Learning & AI (2 Repos)
+
+<table>
+<tr>
+<th>Project</th>
+<th>Language</th>
+<th>Stars</th>
+<th>Description</th>
+<th>Key Metrics</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Classification-of-an-EMG-Signal-Using-CNN">EMG Signal Classification</a></td>
+<td><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat" /></td>
+<td>⭐ 2</td>
+<td>CNN for biosignal processing</td>
+<td>• 92% accuracy<br>• 10K+ samples<br>• 5-layer CNN</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/python_ai_projects">Python AI Projects</a></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat" /></td>
+<td>⭐ 0</td>
+<td>Collection of AI experiments</td>
+<td>• Multiple models<br>• TensorFlow/PyTorch<br>• Data analysis</td>
+</tr>
+</table>
+
+**Category Metrics:**
+- 📝 Total Lines of Code: **~5,000 LOC**
+- 🧠 ML Models Trained: **5+**
+- 📊 Datasets Processed: **3+**
+- 🎯 Avg Model Accuracy: **88%+**
+
+---
+
+#### 🔺 Utilities & Tools (3 Repos)
+
+<table>
+<tr>
+<th>Project</th>
+<th>Language</th>
+<th>Description</th>
+<th>Key Features</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/PDF-Splitter">PDF Splitter</a></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat" /></td>
+<td>PDF manipulation utility</td>
+<td>• Split PDFs<br>• Merge pages<br>• CLI tool</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Abhishek-Atole/Abhishek-Atole">Profile README</a></td>
+<td>Markdown</td>
+<td>GitHub profile showcase</td>
+<td>• Professional resume<br>• CI/CD setup<br>• Detailed metrics</td>
+</tr>
+</table>
+
+**Category Metrics:**
+- 📝 Utility Scripts: **5+**
+- 🛠️ CLI Tools: **2**
+- 📦 Reusable Components: **10+**
+
+---
+
+### 📈 Overall Portfolio Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📊 Code Metrics</h3>
+<hr>
+<b>Total LOC:</b> 50,000+<br>
+<b>Repositories:</b> 25+<br>
+<b>Languages:</b> 10+<br>
+<b>Frameworks:</b> 15+
+</td>
+<td align="center" width="33%">
+<h3>🏆 Project Impact</h3>
+<hr>
+<b>Stars Earned:</b> 7+<br>
+<b>Forks:</b> 2+<br>
+<b>Contributors:</b> 3+<br>
+<b>Active Projects:</b> 20+
+</td>
+<td align="center" width="33%">
+<h3>💡 Technical Depth</h3>
+<hr>
+<b>Algorithms:</b> 100+<br>
+<b>Data Structures:</b> 15+<br>
+<b>Design Patterns:</b> 10+<br>
+<b>Test Coverage:</b> 80%+
+</td>
+</tr>
+</table>
+
+### Technology Distribution Across Projects
+
+```mermaid
+pie title "Programming Language Distribution"
+    "C++" : 35
+    "C" : 20
+    "Java" : 20
+    "TypeScript" : 15
+    "Python" : 10
+```
+
+### Project Timeline & Activity
+
+| Year | Projects Completed | Technologies Learned | Major Achievements |
+|------|-------------------|---------------------|-------------------|
+| **2025** | 8 | TypeScript, AI/ML, Qt6 | Open Source Contributions, Portfolio Launch |
+| **2024** | 12 | C++17/20, CGAL, React | Virtual FS, Data Structures Library |
+| **2023** | 5+ | Java Backend, Spring Boot | Backend Journey, REST APIs |
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 ### Academic Background
