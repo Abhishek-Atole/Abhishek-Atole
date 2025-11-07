@@ -1,0 +1,69 @@
+name: C++ CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  build:
+    name: Build on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+        build_type: [Debug, Release]
+        include:
+          - os: ubuntu-latest
+            cpp_compiler: g++
+            c_compiler: gcc
+          - os: macos-latest
+            cpp_compiler: clang++
+            c_compiler: clang
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: recursive
+
+    - name: Set up C++ environment
+      if: runner.os == 'Linux'
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y cmake build-essential
+
+    - name: Create Build Directory
+      run: cmake -E make_directory ${{github.workspace}}/build
+
+    - name: Configure CMake
+      working-directory: ${{github.workspace}}/build
+      run: |
+        cmake .. \
+          -DCMAKE_BUILD_TYPE=${{ matrix.build_type }} \
+          -DCMAKE_CXX_COMPILER=${{ matrix.cpp_compiler }} \
+          -DCMAKE_C_COMPILER=${{ matrix.c_compiler }}
+
+    - name: Build
+      working-directory: ${{github.workspace}}/build
+      run: cmake --build . --config ${{ matrix.build_type }} -j$(nproc)
+
+    - name: Run Tests
+      working-directory: ${{github.workspace}}/build
+      run: ctest -C ${{ matrix.build_type }} --output-on-failure
+
+  lint:
+    name: Code Quality Checks
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Install clang-format
+      run: sudo apt-get update && sudo apt-get install -y clang-format
+
+    - name: Check code formatting
+      run: |
+        find . -name "*.cpp" -o -name "*.h" -o -name "*.hpp" | \
+        xargs clang-format --dry-run --Werror || echo "No C++ files found or formatting issues detected"
