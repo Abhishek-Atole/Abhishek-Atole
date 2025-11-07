@@ -758,13 +758,13 @@ pie title "Programming Language Distribution"
 
 <div align="center">
 
-### Code Quality Metrics
+**Code Quality Metrics**
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Atole&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Atole&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-### Technology Distribution
+**Technology Distribution**
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,linux,git,github,docker,cmake,vscode,qt,vim,bash,postgres,mysql&perline=5" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,linux,git,github,docker,cmake,vscode,qt,vim,bash,postgres,mysql&perline=5" alt="Technology Stack" />
 
 </div>
 
